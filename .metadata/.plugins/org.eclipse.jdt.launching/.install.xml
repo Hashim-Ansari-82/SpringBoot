@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="C:\Users\lenovo\Downloads\sts-4.20.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\jre" stamp="1769075637295"/>
+    <entry loc="C:\Program Files\Java\ms-17.0.17" stamp="1767294355489"/>
+    <entry loc="C:\Program Files\Java\jdk-21" stamp="1769535833151"/>
+    <entry loc="C:\Program Files\Java\jre1.8.0_491" stamp="1776858475254"/>
     <entry loc="C:\Users\lenovo\Downloads\sts-4.20.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047" stamp="1769075637579"/>
 </dirs>
